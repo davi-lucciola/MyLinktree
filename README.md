@@ -2,4 +2,6 @@
 
 Linktree like for my links.
 
-Will be publish with github pages.
+Published on github pages.
+
+[Site](https://davi-lucciola.github.io/MyLinktree/)
